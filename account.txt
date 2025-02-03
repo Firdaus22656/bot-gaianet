@@ -1,2 +1,1 @@
-apikey|domain
-apikey|domain
+gaia-Mzk1NWZlNDgtODA5YS00YTZhLTgzMDUtMjY1MTljM2MxODMx-rDRF7fb1aCtPeArRhttps://rivalz.gaia.domains/v1/chat/completions
